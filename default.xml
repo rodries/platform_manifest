@@ -32,7 +32,6 @@
   <project path="device/google/accessory/arduino" name="device/google/accessory/arduino" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="device/google/accessory/demokit" name="device/google/accessory/demokit" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"  />
   <project path="device/samsung/galaxys2" name="rodries/android_device_samsung_galaxys2" remote="gh" revision="ics" />
-  <project path="device/ti/panda" name="device/ti/panda" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/android-mock" name="platform/external/android-mock" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/antlr" name="platform/external/antlr" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/apache-harmony" name="platform/external/apache-harmony" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
@@ -95,7 +94,7 @@
   <project path="external/libncurses" name="CyanogenMod/android_external_libncurses"  remote="gh" revision="ics" />
   <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/libnl-headers" name="platform/external/libnl-headers" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="external/libpcap" name="platform/external/libpcap" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
+  <project path="external/libpcap" name="AOKP/external_libpcap" remote="gh" revision="ics" />
   <project path="external/libphonenumber" name="platform/external/libphonenumber" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/libpng" name="AOKP/external_libpng" remote="gh" revision="ics" />
   <project path="external/libvpx" name="platform/external/libvpx" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
@@ -263,6 +262,7 @@
   <project path="packages/apps/GanOptimizer" name="CyanogenMod/android_packages_apps_GanOptimizer" remote="gh" revision="gb-release-7.2" />
   <project path="packages/apps/AppWidgetPicker" name="AOKP/packages_apps_AppWidgetPicker" remote="gh" revision="ics" />
   <project path="packages/wallpapers/SwagPapers" name="AOKP/packages_wallpapers_SwagPapers" remote="gh" revision="ics" />
+  <project path="vendor/tmobile/themes/Achromatic" name="AOKP/android_vendor_tmobile_themes_Achromatic" remote="gh" revision="ics" />
 
   <project path="platform_manifest" name="rodries/platform_manifest" remote="gh" revision="ics" />  
   <project name="CyanogenMod/themes-platform-vendor-tmobile-apps-ThemeChooser" path="vendor/tmobile/apps/ThemeChooser" revision="refs/heads/ics" remote="gh" />

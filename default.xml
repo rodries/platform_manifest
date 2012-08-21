@@ -115,7 +115,7 @@
   <project path="external/nist-sip" name="platform/external/nist-sip" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/oauth" name="platform/external/oauth" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/opencv" name="platform/external/opencv" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
-  <project path="external/openssl" name="CyanogenMod/android_external_openssl" remote="gh" revision="jellybean" />
+  <project path="external/openssl" name="CyanogenMod/android_external_openssl" remote="gh" revision="ics" />
   <project path="external/openvpn" name="CyanogenMod/android_external_openvpn" remote="gh" revision="ics" />
   <project path="external/oprofile" name="CyanogenMod/android_external_oprofile" remote="gh" revision="ics"  />
   <project path="external/pcre" name="platform/external/pcre" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
@@ -153,7 +153,7 @@
   <project path="external/wpa_supplicant_8" name="AOKP/external_wpa_supplicant_8" remote="gh" revision="ics" />
   <project path="external/xmlwriter" name="platform/external/xmlwriter" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
   <project path="external/yaffs2" name="AOKP/external_yaffs2" remote="gh" revision="ics" />
-  <project path="external/zlib" name="AOKP/external_zlib" remote="gh" revision="ics" />
+  <project path="external/zlib" name="CyanogenMod/android_external_zlib" remote="gh" revision="ics" />
   <project path="frameworks/base" name="rodries/frameworks_base" remote="gh" revision="ics" />
   <project path="frameworks/compile/libbcc" name="AOKP/android_frameworks_compile_libbcc" remote="gh" revision="ics" />
   <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="refs/tags/android-4.0.4_r1.2"/>
